@@ -1,0 +1,16 @@
+.generic-class {
+    background-color: rgb(245, 107, 107);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.specific-class {
+    font-size:24px;
+}
+#first-id {
+    color:blue;
+    font-size:36px;
+}
+#second-id {
+    background-color: rgb(112, 214, 112);
+    font-size:24px;
+    font-weight:bold;
+}
